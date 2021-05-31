@@ -1,5 +1,6 @@
 # hello-world
 
 Hi Humans
-Here we are going to build our first Todo App using VueJs.
-We need to done it first step by step.
+Here we are build a car animated game.
+update me if i need some update.
+see u nara
